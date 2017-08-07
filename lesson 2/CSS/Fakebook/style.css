@@ -1,0 +1,30 @@
+* {
+  font-family: "Inknut Antiqua";
+}
+body {
+  background-color: rgb(137, 184,255);
+}
+h1 {
+  color: #093F70;
+  font-size: 42px;
+  font-family: Arial, sans-serif;
+  word-spacing: 0.5em;
+  letter-spacing: 0.3em;
+  font-weight: 900;
+  font-style: italic;
+  text-transform: uppercase;
+  text-align: center;
+}
+#slikica {
+  border: 6px black dotted;
+  padding: 25px;
+}
+#slikica:hover {
+  border: 6px CadetBlue solid;
+}
+.naslov {
+  color: green
+}
+#one {
+  color: red
+}
